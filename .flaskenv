@@ -1,0 +1,1 @@
+export FLASK_APP=authors_app   #nother way of running without the activating vitual environments
